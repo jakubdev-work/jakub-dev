@@ -32,8 +32,7 @@ const Portfolio = () => {
                         </span>
                         <h3 className="title">
                           <a href="#">
-                            Web Application for
-                            <br /> Desiverse
+                            Focus Application
                           </a>
                         </h3>
                         {/* <span className="view_project">
@@ -63,8 +62,7 @@ const Portfolio = () => {
                         </span>
                         <h3 className="title">
                           <a href="#">
-                            Web Application for
-                            <br /> Desiverse
+                            Offset Prototypes
                           </a>
                         </h3>
                         {/* <span className="view_project">
@@ -94,8 +92,7 @@ const Portfolio = () => {
                         </span>
                         <h3 className="title">
                           <a href="#">
-                            Web Application for
-                            <br /> Desiverse
+                            TA 39 - LMS
                           </a>
                         </h3>
                       </div>
