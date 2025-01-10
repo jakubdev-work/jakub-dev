@@ -12,7 +12,7 @@ const Copyright = () => {
                   rel="noreferrer"
                   target="_blank"
                 >
-                  Codeefly
+                  Jakub
                 </a>{" "}
                 © {new Date().getFullYear()}
               </p>

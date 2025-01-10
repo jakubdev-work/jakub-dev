@@ -36,11 +36,11 @@ const Portfolio = () => {
                             <br /> Desiverse
                           </a>
                         </h3>
-                        <span className="view_project">
+                        {/* <span className="view_project">
                           <a href="#">
                             View Project <i className="icon-right-big" />
                           </a>
-                        </span>
+                        </span> */}
                       </div>
                     </div>
                     <div className="overlay" />
@@ -67,11 +67,11 @@ const Portfolio = () => {
                             <br /> Desiverse
                           </a>
                         </h3>
-                        <span className="view_project">
+                        {/* <span className="view_project">
                           <a href="#">
                             View Project <i className="icon-right-big" />
                           </a>
-                        </span>
+                        </span> */}
                       </div>
                     </div>
                     <div className="overlay" />
@@ -98,48 +98,12 @@ const Portfolio = () => {
                             <br /> Desiverse
                           </a>
                         </h3>
-                        <span className="view_project">
-                          <a href="#">
-                            View Project <i className="icon-right-big" />
-                          </a>
-                        </span>
                       </div>
                     </div>
                     <div className="overlay" />
                     <a
                       className="devman_tm_full_link soundcloude_link mfp-iframe audio"
                       href="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/471954807&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
-                    />
-                  </div>
-                </li>
-                <li className="wow fadeInUp" data-wow-duration="1s">
-                  <div className="list_inner">
-                    <div
-                      className="background_image"
-                      data-img-url="img/portfolio/4.jpg"
-                    />
-                    <div className="content">
-                      <div className="details">
-                        <span className="category">
-                          <a href="#">Details</a>
-                        </span>
-                        <h3 className="title">
-                          <a href="#">
-                            Web Application for
-                            <br /> Desiverse
-                          </a>
-                        </h3>
-                        <span className="view_project">
-                          <a href="#">
-                            View Project <i className="icon-right-big" />
-                          </a>
-                        </span>
-                      </div>
-                    </div>
-                    <div className="overlay" />
-                    <a
-                      className="devman_tm_full_link portfolio_popup c-pointer"
-                      onClick={() => setPopup(true)}
                     />
                   </div>
                 </li>

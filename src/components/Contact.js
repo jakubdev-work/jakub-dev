@@ -108,7 +108,7 @@ const Contact = () => {
                       />
                     </div>
                     <div className="devman_tm_button" data-position="left">
-                      <input type="submit" value="Submit Message" />
+                      <input type="submit" value="Submit" />
                     </div>
                     {/* If you want to change mail address to yours, please open modal.php and go to line 4 */}
                   </form>
@@ -123,7 +123,7 @@ const Contact = () => {
                       </div>
                       <div className="short">
                         <h3>Address</h3>
-                        <span>20, Somewhere in world</span>
+                        <span>Poznań, Poland</span>
                       </div>
                     </div>
                   </li>
@@ -135,7 +135,7 @@ const Contact = () => {
                       <div className="short">
                         <h3>Email</h3>
                         <span>
-                          <a href="#">hello@devman.com</a>
+                          <a href="#">jakubdev001@gmail.com</a>
                         </span>
                       </div>
                     </div>
@@ -147,7 +147,7 @@ const Contact = () => {
                       </div>
                       <div className="short">
                         <h3>Phone</h3>
-                        <span>+123 456 7890</span>
+                        <span>+48 512 345 678</span>
                       </div>
                     </div>
                   </li>
