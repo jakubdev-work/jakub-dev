@@ -25,7 +25,14 @@ const Index = () => {
   return (
     <Layout>
       <Head>
-        <title>Devman | Home</title>
+        <title>Jakub S | Home</title>
+        <meta property="og:image" content="/img/logo/dark.png" />
+        <meta name="twitter:image" content="/img/logo/dark.png" />
+
+        <link rel="apple-touch-icon" sizes="180x180" href="/favicon.png" />
+        <link rel="icon" type="image/x-icon" href="/favicon.png" />
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon.png" />
+
       </Head>
       <MobileHeader />
       <Header />
