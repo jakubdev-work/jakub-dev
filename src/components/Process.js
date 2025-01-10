@@ -11,8 +11,7 @@ const Process = () => {
                 <span>Working to make difference</span>
                 <h3>Real Passion to Create Amazing Things</h3>
                 <p>
-                  Dliquip ex ea commo do conse namber onequa ute irure dolor in
-                  reprehen derit in voluptate
+                  A true passion for crafting innovative and amazing creations.
                 </p>
               </div>
             </div>
